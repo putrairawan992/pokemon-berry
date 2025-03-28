@@ -1,0 +1,17 @@
+{
+  "listBery": "List Bery",
+  "language": "Language",
+  "dashboard": "Dashboard",
+  "image": "Image",
+  "name": "Name",
+  "actions": "Actions",
+  "searchBerry": "Search bery..",
+  "create": "Create",
+  "detail": "Detail",
+  "create_product": "Create Product",
+  "description": "Description",
+  "submit": "Submit",
+  "success": "Success",
+  "product_success": "Product added successfully!",
+  "detail_list_berry": "Detail List Berry"
+}

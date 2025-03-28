@@ -1,0 +1,17 @@
+{
+  "listBery": "Daftar Bery",
+  "language": "Bahasa",
+  "dashboard": "Beranda",
+  "image": "Gambar",
+  "name": "Nama",
+  "actions": "Aksi",
+  "searchBerry": "Pencarian bery...",
+  "create": "Buat",
+  "detail": "Detail",
+  "create_product": "Membuat Produk",
+  "description" : "Deskripsi",
+  "submit": "Kirim",
+  "success": "Berhasil",
+  "product_success": "Produk berhasil ditambahkan!",
+  "detail_list_berry": "Daftar Detail Berry"
+}
